@@ -1,0 +1,11 @@
+/Users/avery/democonsole/bin/Debug/netcoreapp2.1/democonsole.deps.json
+/Users/avery/democonsole/bin/Debug/netcoreapp2.1/democonsole.runtimeconfig.json
+/Users/avery/democonsole/bin/Debug/netcoreapp2.1/democonsole.runtimeconfig.dev.json
+/Users/avery/democonsole/bin/Debug/netcoreapp2.1/democonsole.dll
+/Users/avery/democonsole/bin/Debug/netcoreapp2.1/democonsole.pdb
+/Users/avery/democonsole/obj/Debug/netcoreapp2.1/democonsole.csprojAssemblyReference.cache
+/Users/avery/democonsole/obj/Debug/netcoreapp2.1/democonsole.csproj.CoreCompileInputs.cache
+/Users/avery/democonsole/obj/Debug/netcoreapp2.1/democonsole.AssemblyInfoInputs.cache
+/Users/avery/democonsole/obj/Debug/netcoreapp2.1/democonsole.AssemblyInfo.cs
+/Users/avery/democonsole/obj/Debug/netcoreapp2.1/democonsole.dll
+/Users/avery/democonsole/obj/Debug/netcoreapp2.1/democonsole.pdb
