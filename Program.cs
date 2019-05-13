@@ -29,7 +29,9 @@ namespace NumberGuesser
             //int correctNumber = 7;
 
             //Create a new Ran
-
+            Random random = new Random();
+            
+            int correctNumber = random.Next(1,10);
             //Init guess var
             int guess = 0;
             Console.WriteLine("Guess a number between 1 and 10");
